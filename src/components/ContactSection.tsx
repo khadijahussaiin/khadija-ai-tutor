@@ -14,7 +14,7 @@ import {
 import { useToast } from "@/hooks/use-toast";
 
 const WEBHOOK_URL = "http://localhost:5678/webhook/3b93eb08-8e54-4ccf-9dd8-4529aed834f0";
-
+//connected to webhook i n8n
 const semesters = [
   { value: "1", label: "1. semester" },
   { value: "2", label: "2. semester" },
